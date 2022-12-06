@@ -25,21 +25,20 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=dzptahh&theme=panda&hide_border=true&background=FFFFFF00">
   <br>
   
- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/dzptahh/Blindblog" title="Blindblog"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzptahh&repo=Blindblog&theme=panda&border_color=61dafb&border_radius=10"></a><a align="right" 
 <h4 align="center">
+  <div width="100%" align="center">
+  <a align="right" href="https://github.com/dzptahh/ku-polls" title="ku-polls"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzptahh&repo=ku-polls&theme=panda&border_color=61dafb&border_radius=10"></a>
+</div>
 <br/><br/><br/><br/><br/><br/>
   <div width="100%" align="center">
   <a align="right" href="https://github.com/dzptahh/bookinglooking" title="bookinglooking"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzptahh&repo=bookinglooking&theme=panda&border_color=61dafb&border_radius=10"></a><a align="right" 
-  </div>
- <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/dzptahh/ku-polls" title="ku-polls"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzptahh&repo=ku-polls&theme=panda&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-    
+
 <h4 align="center">
   <a href="https://github.com/dzptahh?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
