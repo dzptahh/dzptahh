@@ -33,11 +33,18 @@
   <div width="100%" align="center">
   <a align="right" href="https://github.com/dzptahh/ku-polls" title="ku-polls"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzptahh&repo=ku-polls&theme=panda&border_color=61dafb&border_radius=10"></a>
 </div>
+
 <br/><br/><br/><br/><br/><br/>
   <div width="100%" align="center">
   <a align="right" href="https://github.com/dzptahh/bookinglooking" title="bookinglooking"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzptahh&repo=bookinglooking&theme=panda&border_color=61dafb&border_radius=10"></a><a align="right" 
 </div>
+
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/Exceed-Group13" title="exceedg13"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Exceed-Group13&repo=mini-project&theme=panda&border_color=61dafb&border_radius=10"></a>
+</div>
+
 <br/><br/><br/><br/><br/><br/>
+
 
 <h4 align="center">
   <a href="https://github.com/dzptahh?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
