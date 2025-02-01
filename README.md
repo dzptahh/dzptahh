@@ -10,6 +10,32 @@
 - 💬 **Reach out**: You can contact me via email at **damita.f@ku.th**.
 
 - 🕹️ **Fact**: I'm always gaming, 24/7!
+---
+<h3 align="left">🎮 Gaming Passion</h3>
+<p align="left">
+  
+  >🚀 <b>Gaming Genre</b>: Competitive FPS, Battle Royale, Tactical Shooter  
+  
+  🦁 <b>Favorite Games</b>:
+  <ul>
+    <li><b>Valorant</b> - Competitive tactical FPS with my squad!</li>
+    <li><b>CS:GO 2</b> - Classic strategic gameplay, always fun!</li>
+    <li><b>PUBG</b> - Battling it out in the open world.</li>
+    <li><b>Steam Games</b> - Exploring new titles and old favorites.</li>
+  </ul>
+  🎧 <b>Communication</b>:
+  <ul>
+    <li>💬 Always talking and strategizing with friends on <b>Discord</b>.</li>
+    <li>🎮 The team dynamic is key to a great gaming experience.</li>
+  </ul>
+  ⚡ <b>Gaming Highlights</b>:
+  <ul>
+    <li>🧠 Focused on teamwork, precision, and strategy in all games.</li>
+    <li>🏆 Working hard to rank up in <b>Valorant</b> and <b>CS:GO 2</b>.</li>
+    <li>💥 Enjoying intense Battle Royale moments in <b>PUBG</b>.</li>
+  </ul>
+</p>
+
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
