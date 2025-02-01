@@ -39,6 +39,7 @@
 ---
 
 <h3 align="left">☕ Work Experience: Barista at Starbucks</h3> <p align="left"> I worked at Starbucks for one year, where I gained valuable experience in customer service, team collaboration, and time management. I learned how to thrive in a fast-paced environment, always ensuring high-quality service and maintaining a positive attitude. <ul> <li>☕ Provided exceptional customer service while crafting high-quality beverages.</li> <li>💡 Developed strong communication and problem-solving skills.</li> <li>🤝 Worked as part of a team to meet sales goals and maintain a clean and organized workspace.</li> </ul> </p>
+<h3 align="left"> At Dollywood 🧙🏻‍♂️</h3> <p align="left"> I worked at Dollywood for 4 months in the USA, Create a welcoming environment for visitors.</ul> </p>
 
 ---
 
