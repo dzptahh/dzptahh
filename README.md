@@ -1,6 +1,5 @@
 <h1 align="center">Hello there 🦖, I'm Pang-Dani</h1>
-<h3 align="center">A passionate software engineering student at Kasetsart University, diving into the world of Software and Knowledge Engineering.</h3>
-
+<h3 align="center">A Software and Knowledge Engineering student at Kasetsart University, Bangkok.</h3>
 
 
 - 🔧 **Current project**: I'm working on [VoxFlex Video Translation](https://github.com/VoxFlex), bringing accessibility to videos.
