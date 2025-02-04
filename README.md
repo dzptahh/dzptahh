@@ -5,8 +5,7 @@
 
 - 🔧 **Current project**: I'm working on [VoxFlex Video Translation](https://github.com/VoxFlex), bringing accessibility to videos.
   
-- 🎯 **Learning Journey**: Focused on **UX/UI design** also **Front-end**.
-
+- 🎯 **Learning Journey**: Learning UX/UI design and Front-end while discovering what fits me best.
 - 💬 **Reach out**: You can contact me via email at **damita.f@ku.th**.
 
 - 🕹️ **Fact**: I'm always gaming, 24/7!
