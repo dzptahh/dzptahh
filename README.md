@@ -14,31 +14,20 @@
 <h3 align="left">🎮 Gaming Passion</h3>
 <p align="left">
   
-  >🚀 <b>Gaming Genre</b>: Competitive FPS, Battle Royale, Tactical Shooter  
+  >🚀 <b>Gaming Genre</b>: Competitive FPS  
   
   🦁 <b>Favorite Games</b>:
   <ul>
-    <li><b>Valorant</b> - Competitive tactical FPS with my squad!</li>
-    <li><b>CS:GO 2</b> - Classic strategic gameplay, always fun!</li>
-    <li><b>PUBG</b> - Battling it out in the open world.</li>
+    <li><b>Valorant</b> </li>
+    <li><b>CS:GO 2</b> </li>
+    <li><b>PUBG</b> </li>
     <li><b>Steam Games</b> - Exploring new titles and old favorites.</li>
-  </ul>
-  🎧 <b>Communication</b>:
-  <ul>
-    <li>💬 Always talking and strategizing with friends on <b>Discord</b>.</li>
-    <li>🎮 The team dynamic is key to a great gaming experience.</li>
-  </ul>
-  ⚡ <b>Gaming Highlights</b>:
-  <ul>
-    <li>🧠 Focused on teamwork, precision, and strategy in all games.</li>
-    <li>🏆 Working hard to rank up in <b>Valorant</b> and <b>CS:GO 2</b>.</li>
-    <li>💥 Enjoying intense Battle Royale moments in <b>PUBG</b>.</li>
   </ul>
 </p>
 
 ---
 
-<h3 align="left">☕ Work Experience: Barista at Starbucks</h3> <p align="left"> I worked at Starbucks for one year, where I gained valuable experience in customer service, team collaboration, and time management. I learned how to thrive in a fast-paced environment, always ensuring high-quality service and maintaining a positive attitude. <ul> <li>☕ Provided exceptional customer service while crafting high-quality beverages.</li> <li>💡 Developed strong communication and problem-solving skills.</li> <li>🤝 Worked as part of a team to meet sales goals and maintain a clean and organized workspace.</li> </ul> </p>
+<h3 align="left">☕ Work Experience: Barista at Starbucks</h3> </li> <li>💡 Developed strong communication and problem-solving skills.</li> <li>🤝 Worked as part of a team to meet sales goals and maintain a clean and organized workspace.</li> </ul> </p>
 <h3 align="left"> At Dollywood 🧙🏻‍♂️</h3> <p align="left"> I worked at Dollywood for 4 months in the USA, Create a welcoming environment for visitors.</ul> </p>
 
 ---
@@ -93,13 +82,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzptahh&show_icons=true&locale=en" alt="dzptahh" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzptahh&" alt="dzptahh" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dzptahh&layout=compact&hide_title=true&langs_count=10)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
